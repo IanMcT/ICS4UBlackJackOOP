@@ -1,4 +1,10 @@
-﻿using System;
+/**************
+*Ian McTavish
+*March 7, 2018
+*Card.cs
+*Represent a Card object for Blackjack game.
+**************/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
